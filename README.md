@@ -4,7 +4,7 @@ This repository focuses on the problem of pretraining data detection for LLMs an
 ## Overview
 Modern LLMs owe their success to massive training datasets. However, the use of such extensive, unchecked data raises serious issues like privacy leakage and data contamination. Consequently, the ability to audit whether a target text belongs to the pretraining corpus is essential for trustworthy AI.
 
-We propose Adaptive Entropic Convolutional Analysis (AECA), a novel pretraining data detection framework. Extensive experiments demonstrate that AECA achieves state-of-the-art performance in gray-box settings, exhibiting substantially superior performance in long-text scenarios compared to existing baselines.
+We propose <u>**A**</u>daptive <u>**E**</u>ntropic <u>**C**</u>onvolutional <u>**A**</u>nalysis **(AECA)**, a novel pretraining data detection framework. Extensive experiments demonstrate that AECA achieves state-of-the-art performance in gray-box settings, exhibiting substantially superior performance in long-text scenarios compared to existing baselines.
 
 ## Requirements and Dependencies
 
