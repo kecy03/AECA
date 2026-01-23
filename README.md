@@ -16,14 +16,14 @@ pip install -r requirements.txt
 
 ## Dataset
 The datasets used in our experiments can be accessed as follows:
-* **WikiMIA**: Available at [swj0419/WikiMIA](https://huggingface.co/datasets/swj0419/WikiMIA).
-* **MIMIR**: Available at [iamgroot42/mimir](https://huggingface.co/datasets/iamgroot42/mimir).
+* **WikiMIA**: Available at [🤗swj0419/WikiMIA](https://huggingface.co/datasets/swj0419/WikiMIA).
+* **MIMIR**: Available at [🤗iamgroot42/mimir](https://huggingface.co/datasets/iamgroot42/mimir).
 
 ## Model
 You can download the models used in our experiments from Hugging Face. For example:
 
-* Pythia-2.8b: [EleutherAI/pythia-2.8b](https://huggingface.co/EleutherAI/pythia-2.8b).
-* GPT-NeoX-20B: [EleutherAI/gpt-neox-20b](https://huggingface.co/EleutherAI/gpt-neox-20b)
+* Pythia-2.8b: [🤗EleutherAI/pythia-2.8b](https://huggingface.co/EleutherAI/pythia-2.8b).
+* GPT-NeoX-20B: [🤗EleutherAI/gpt-neox-20b](https://huggingface.co/EleutherAI/gpt-neox-20b)
 
 ## Running
 Follow the steps below to reproduce the results:
