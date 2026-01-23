@@ -18,6 +18,7 @@ pip install -r requirements.txt
 The datasets used in our experiments can be accessed as follows:
 * **WikiMIA**: Available at [🤗swj0419/WikiMIA](https://huggingface.co/datasets/swj0419/WikiMIA).
 * **MIMIR**: Available at [🤗iamgroot42/mimir](https://huggingface.co/datasets/iamgroot42/mimir).
+* **Reference Corpus $\mathcal{D}_{\text{ref}}$**: Available at [🤗allenai/c4](https://huggingface.co/datasets/allenai/c4).
 
 ## Model
 You can download the models used in our experiments from Hugging Face. For example:
