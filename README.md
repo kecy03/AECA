@@ -6,7 +6,7 @@ Modern LLMs owe their success to massive training datasets. However, the use of 
 
 We propose <u>**A**</u>daptive <u>**E**</u>ntropic <u>**C**</u>onvolutional <u>**A**</u>nalysis **(AECA)**, a novel pretraining data detection framework.
 
-![alt text](fig/AECA_v3_1.png)
+![alt text](fig/AECA.png)
 
 ## Requirements and Dependencies
 
