@@ -22,17 +22,17 @@ Install the required dependencies using `pip`:
 pip install -r requirements.txt
 ```
 
-## 🗂️ Dataset
+## 🗂️ Datasets
 The datasets used in our experiments can be accessed as follows:
 * **WikiMIA:** Available at [🤗swj0419/WikiMIA](https://huggingface.co/datasets/swj0419/WikiMIA).
 * **MIMIR:** Available at [🤗iamgroot42/mimir](https://huggingface.co/datasets/iamgroot42/mimir).
 * **Reference Corpus $\mathcal{D}_{\text{ref}}$:** Available at [🤗allenai/c4](https://huggingface.co/datasets/allenai/c4).
 
-## 🤖 Model
+## 🤖 Models
 You can download the models used in our experiments from Hugging Face. For example:
 
-* **Pythia-2.8b:** [🤗EleutherAI/pythia-2.8b](https://huggingface.co/EleutherAI/pythia-2.8b).
-* **GPT-NeoX-20b:** [🤗EleutherAI/gpt-neox-20b](https://huggingface.co/EleutherAI/gpt-neox-20b)
+* **Pythia-2.8B:** [🤗EleutherAI/pythia-2.8b](https://huggingface.co/EleutherAI/pythia-2.8b).
+* **GPT-NeoX-20B:** [🤗EleutherAI/gpt-neox-20b](https://huggingface.co/EleutherAI/gpt-neox-20b)
 
 ## 🚀 Running
 Follow the steps below to reproduce the results:
