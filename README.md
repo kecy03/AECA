@@ -1,4 +1,7 @@
-<h1 align="center">📖 Rethinking Pretraining Data Detection for LLMs: From Local to Global [ICML 2026]</h1>
+<h1 align="center">
+📖 Rethinking Pretraining Data Detection for LLMs:<br>
+From Local to Global [ICML 2026]
+</h1>
 
 This repository focuses on the problem of pretraining data detection for LLMs and proposes a novel method based on the **probability dynamics of tokens during the text generation process.**
 
