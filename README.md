@@ -84,7 +84,7 @@ We sincerely thank the following GitHub repositories for their valuable codebase
 - [Min-K% Prob](https://github.com/swj0419/detect-pretrain-code): Uses the k% tokens with the minimum likelihood for score computation.
 - [Min-K%++ Prob](https://github.com/zjysteven/mink-plus-plus): Uses the k% tokens with the minimum normalized likelihood for score computation.
 - [DC-PDD](https://github.com/zhang-wei-chao/DC-PDD): Uses the frequency distribution of a large corpus to calibrate token probabilities.
-- [PAC](https://github.com/yyy01/PAC%23%23-Detect-Data-Contamination-with-PAC): Measures the polarization distance of model confidence between the original input and adjacent samples generated via random swap augmentation.
+- [PAC](https://github.com/yyy01/PAC##-Detect-Data-Contamination-with-PAC): Measures the polarization distance of model confidence between the original input and adjacent samples generated via random swap augmentation.
 
 We also thank [TimeDART](https://github.com/ustc-time-series/TimeDART) for the `README.md` writing template.
 
