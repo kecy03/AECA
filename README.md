@@ -14,7 +14,7 @@ We propose <u>**A**</u>daptive <u>**E**</u>ntropic <u>**C**</u>onvolutional <u>*
   <img src="fig/AECA.png" alt="AECA framework" width="100%">
 </p>
 
-## ⚙️ Requirements and Dependencies
+## 🛠️ Requirements and Dependencies
 
 Install the required dependencies using `pip`:
 
