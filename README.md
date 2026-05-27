@@ -4,7 +4,7 @@ From Local to Global [ICML 2026]
 </h1>
 
 <p align="center">
-  <a href="#">📖 Paper</a> |
+  <a href="#">📄 Paper</a> |
   <a href="#">📸 Poster</a> |
   <a href="#">🏠 Author Homepage</a>
 </p>
@@ -23,6 +23,12 @@ We propose <u>**A**</u>daptive <u>**E**</u>ntropic <u>**C**</u>onvolutional <u>*
 <p align="center">
   <img src="fig/AECA.png" alt="AECA framework" width="100%">
 </p>
+
+<p align="center">
+  <em>Figure 1: Overview of the AECA framework.</em>
+</p>
+
+AECA consists of four steps: (a) Probability Acquisition, (b) Adaptive Entropic Convolution, (c) Volatility Divergence Analysis, and (d) Binary Decision. Please refer to our paper for detailed introductions and theoretical proofs. 🔍
 
 ## 🔥 News
 
