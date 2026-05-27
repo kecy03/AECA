@@ -32,9 +32,9 @@ AECA consists of four steps: (a) Probability Acquisition, (b) Adaptive Entropic 
 
 ## 🔥 News
 
-- [2026/05] We release our code.
-- [2026/05] Our paper is accepted to [ICML 2026](https://icml.cc/Conferences/2026)! 🎉
-- [2026/01] Our paper is under review.
+- [2026/05] We released our code.
+- [2026/05] Our paper was accepted to [ICML 2026](https://icml.cc/Conferences/2026)! 🎉
+- [2026/01] We submitted our paper to [ICML 2026](https://icml.cc/Conferences/2026).
 
 ## 🛠️ Requirements and Dependencies
 
