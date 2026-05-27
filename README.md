@@ -6,7 +6,7 @@ From Local to Global [ICML 2026]
 <p align="center">
   <a href="#">📄 Paper</a> |
   <a href="#">📸 Poster</a> |
-  <a href="#">🏠 Author Homepage</a>
+  <a href="https://kecy03.github.io/">🏠 Author Homepage</a>
 </p>
 
 <p align="center">
@@ -60,7 +60,9 @@ hf download swj0419/WikiMIA --repo-type dataset --local-dir data/WikiMIA
 You can download the models used in our experiments from Hugging Face. For example:
 
 * **Pythia-2.8B:** [🤗EleutherAI/pythia-2.8b](https://huggingface.co/EleutherAI/pythia-2.8b).
-* **GPT-NeoX-20B:** [🤗EleutherAI/gpt-neox-20b](https://huggingface.co/EleutherAI/gpt-neox-20b)
+* **OPT-6.7B:** [🤗facebook/opt-6.7b](https://huggingface.co/facebook/opt-6.7b).
+* **LLaMA-13B:** [🤗huggyllama/llama-13b](https://huggingface.co/huggyllama/llama-13b).
+* **GPT-NeoX-20B:** [🤗EleutherAI/gpt-neox-20b](https://huggingface.co/EleutherAI/gpt-neox-20b).
 
 Download with Hugging Face CLI:
 
