@@ -6,7 +6,9 @@ From Local to Global [ICML 2026]
 <p align="center">
   <a href="#">📄 Paper</a> |
   <a href="#">📸 Poster</a> |
-  <a href="https://kecy03.github.io/">🏠 Author Homepage</a>
+  <a href="#">🖥️ Slides</a> |
+  <a href="#">🎥 SlidesLive</a> |
+  <a href="#">🏠 Author Homepage</a>
 </p>
 
 <p align="center">
