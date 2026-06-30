@@ -4,10 +4,10 @@ From Local to Global [ICML 2026]
 </h1>
 
 <p align="center">
-  <a href="#">📄 Paper</a> |
-  <a href="#">📸 Poster</a> |
-  <a href="#">🖥️ Slides</a> |
-  <a href="#">🎥 SlidesLive</a> 
+  <a href="https://openreview.net/pdf?id=ThlRUXqFZ0">📄 Paper</a> |
+  <a href="https://icml.cc/media/PosterPDFs/ICML%202026/63793.png?t=1780230897.1343575">📸 Poster</a> |
+  <a href="https://icml.cc/media/icml-2026/Slides/63793.pdf">🖥️ Slides</a> |
+  <a href="https://icml.cc/virtual/2026/poster/63793">🎥 SlidesLive</a>
 </p>
 
 <p align="center">
