@@ -7,8 +7,7 @@ From Local to Global [ICML 2026]
   <a href="#">📄 Paper</a> |
   <a href="#">📸 Poster</a> |
   <a href="#">🖥️ Slides</a> |
-  <a href="#">🎥 SlidesLive</a> |
-  <a href="#">🏠 Author Homepage</a>
+  <a href="#">🎥 SlidesLive</a> 
 </p>
 
 <p align="center">
@@ -104,7 +103,12 @@ We also thank [TimeDART](https://github.com/ustc-time-series/TimeDART) for the `
 If you find our work helpful, please consider giving this repository a star and citing our work.
 
 ```bibtex
-TBD
+@inproceedings{ke2026rethinking,
+  title={Rethinking Pretraining Data Detection for {LLM}s: From Local to Global},
+  author={Chenye Ke and Yan Zhuang and Zirui Liu and Qi Liu},
+  booktitle={Forty-third International Conference on Machine Learning},
+  year={2026}
+}
 ```
 
 
