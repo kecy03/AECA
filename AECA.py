@@ -88,7 +88,7 @@ def apply_dynamic_entropic_convolution(potential_stream):
     return shock_spectrum
 
 # Generate Static Loss Stream (NLL) and Information Potential Stream (p * I) for a given text
-def calculate_streams(text, model, tokenizer, i_ref_table, temperature=1.5):
+def calculate_streams(text, model, tokenizer, i_ref_table, temperature=1.0):
     inputs = tokenizer(
         text,
         return_tensors='pt',
